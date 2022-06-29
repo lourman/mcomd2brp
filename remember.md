@@ -1,8 +1,9 @@
 # Remember
-[Lecture](./index.html)
+[Lecture](./Lectures/index.html)
 
 ## Methods
-[Lecture2](./slides-minimal.html)
+[Lecture2](./Lectures/slides-minimal.html)
+
 
 ## Private and Public Modifiers
 
