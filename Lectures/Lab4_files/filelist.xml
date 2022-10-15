@@ -1,9 +1,11 @@
 <xml xmlns:o="urn:schemas-microsoft-com:office:office">
- <o:MainFile HRef="../Lab3.html"/>
- <o:File HRef="item0009.xml"/>
- <o:File HRef="props010.xml"/>
+ <o:MainFile HRef="../Lab4.html"/>
  <o:File HRef="item0011.xml"/>
  <o:File HRef="props012.xml"/>
+ <o:File HRef="item0013.xml"/>
+ <o:File HRef="props014.xml"/>
+ <o:File HRef="item0015.xml"/>
+ <o:File HRef="props016.xml"/>
  <o:File HRef="themedata.thmx"/>
  <o:File HRef="colorschememapping.xml"/>
  <o:File HRef="header.html"/>
